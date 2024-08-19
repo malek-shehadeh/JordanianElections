@@ -1,0 +1,7 @@
+html {
+  direction: rtl;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
